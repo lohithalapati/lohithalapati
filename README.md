@@ -84,8 +84,6 @@ const lohith = {
 
 ### 🔧 Languages & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -95,22 +93,25 @@ const lohith = {
 
 ## 📊 GitHub Statistics
 
+> ⚠️ Replace `YOUR_GITHUB_USERNAME` everywhere below with your actual GitHub username!
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lohith-alapati&show_icons=true&theme=blue-green&hide_border=true&count_private=true&rank_icon=github&title_color=2e86c1&icon_color=2e86c1" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohith-alapati&layout=compact&theme=blue-green&hide_border=true&langs_count=8&title_color=2e86c1" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=false&count_private=true" height="180"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=false&langs_count=8" height="180"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lohith-alapati&theme=blue-green&hide_border=true&ring=2E86C1&fire=1A5276&currStreakLabel=2E86C1)
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=false)
 
 </div>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lohith-alapati&theme=github-compact&hide_border=true&area=true&color=2e86c1&line=1a5276&point=ffffff)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=minimal&hide_border=false&area=true)
 
 </div>
 
@@ -120,7 +121,7 @@ const lohith = {
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=lohith-alapati&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1)
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=flat&no-frame=false&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -130,13 +131,35 @@ const lohith = {
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lohith-alapati/lohith-alapati/blob/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/lohith-alapati/lohith-alapati/blob/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://github.com/lohith-alapati/lohith-alapati/blob/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </div>
+
+> ⚙️ **To activate the snake**, create `.github/workflows/snake.yml` in your profile repo with this content:
+>
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule:
+>     - cron: "0 0 * * *"
+>   workflow_dispatch:
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: YOUR_GITHUB_USERNAME
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
 
 ---
 
@@ -144,7 +167,7 @@ const lohith = {
 
 ### 👁️ Profile Views &nbsp;&nbsp;|&nbsp;&nbsp; Let's Connect & Build the Future Together!
 
-![Profile Views](https://komarev.com/ghpvc/?username=lohith-alapati&color=2e86c1&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=2e86c1&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
 

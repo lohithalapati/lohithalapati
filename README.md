@@ -18,7 +18,7 @@ Hi, I'm Lohith 👋<br>Python Full Stack Developer<br>Building scalable web appl
 ---
 [![](https://visitcount.itsvg.in/api?id=lohithalapati&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## 
 
 <!--
 **lohithalapati/lohithalapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

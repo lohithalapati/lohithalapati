@@ -103,7 +103,7 @@ const lohith = {
 [![](https://visitcount.itsvg.in/api?id=lohithalapati&icon=0&color=0)](https://visitcount.itsvg.in)
 ### 👁️ Profile Views &nbsp;&nbsp;|&nbsp;&nbsp; Let's Connect & Build the Future Together!
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=2e86c1&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=lohithalapati&color=2e86c1&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
 

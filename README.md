@@ -90,31 +90,10 @@ const lohith = {
 </div>
 
 ---
-
-## 📊 GitHub Statistics
-
-> ⚠️ Replace `YOUR_GITHUB_USERNAME` everywhere below with your actual GitHub username!
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=false&count_private=true" height="180"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=false&langs_count=8" height="180"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=false)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=minimal&hide_border=false&area=true)
-
-</div>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lohithalapati&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=lohithalapati&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lohithalapati&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 ## 🏆 GitHub Trophies

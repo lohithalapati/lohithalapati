@@ -97,19 +97,10 @@ const lohith = {
 ---
 
 ## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=flat&no-frame=false&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+![](https://github-profile-trophy.vercel.app/?username=lohithalapati&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-
----
-
-<div align="center">
-
+[![](https://visitcount.itsvg.in/api?id=lohithalapati&icon=0&color=0)](https://visitcount.itsvg.in)
 ### 👁️ Profile Views &nbsp;&nbsp;|&nbsp;&nbsp; Let's Connect & Build the Future Together!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=2e86c1&style=for-the-badge&label=PROFILE+VIEWS)

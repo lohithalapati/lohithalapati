@@ -98,7 +98,7 @@ const lohith = {
 </div>
 
 </div>
----
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lohithalapati&theme=radical&no-frame=false&no-bg=true&margin-w=4)

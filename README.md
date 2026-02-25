@@ -31,9 +31,9 @@
 ```javascript
 const lohith = {
   pronouns   : "He / Him",
-  location   : "India 🇮🇳",
+  location   : "VIJAYAWADA,ANDHRA PRADESH",
   role       : "Full Stack Developer 💻",
-  focus      : "JUSTICE AI 🤖",
+  focus      : "MARKETAI SUITE🤖",
   learning   : ["MERN Stack", "System Design"],
   interests  : [
     "Problem Solving",

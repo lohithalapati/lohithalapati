@@ -90,11 +90,10 @@ const lohith = {
 </div>
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lohithalapati&show_icons=true&theme=dark&hide_border=false)
+
 
 ![Streak](https://streak-stats.demolab.com?user=lohithalapati&theme=dark&hide_border=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lohithalapati&layout=compact&theme=dark)
 
 </div>
 

@@ -23,38 +23,30 @@
 </div>
 
 ---
+## 👨‍💻 About Me
 
 <img align="right" alt="Coding" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-## 👨‍💻 About Me
-
 ```javascript
 const lohith = {
-  pronouns   : "He / Him",
-  location   : "VIJAYAWADA,ANDHRA PRADESH",
-  role       : "Full Stack Developer 💻",
-  focus      : "MARKETAI SUITE🤖",
-  learning   : ["MERN Stack", "System Design"],
-  interests  : [
+  pronouns: "He / Him",
+  location: "Vijayawada, Andhra Pradesh",
+  role: "Full Stack Developer 💻",
+  focus: "MarketAI Suite 🤖",
+
+  learning: [
+    "MERN Stack",
+    "System Design"
+  ],
+
+  interests: [
     "Problem Solving",
     "Web Development",
-    "Building the Future"
+    "Building Products"
   ],
-  motto      : "Bugs in my head never make me sleep ^_^",
 
-  lifeLoop   : function() {
-    while (alive) {
-      eat();
-      code();
-      solve();
-      repeat();
-    }
-  }
+  motto: "Eat • Code • Improve • Repeat 🚀"
 };
-```
-
-<br clear="right"/>
-
 ---
 
 ## 🛠️ Tech Arsenal

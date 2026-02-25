@@ -88,16 +88,15 @@ const lohith = {
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
-
----## 📊 GitHub Stats
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lohithalapati&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lohithalapati&show_icons=true&theme=dark&hide_border=false)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=lohithalapati&theme=dark&hide_border=false)
+![Streak](https://streak-stats.demolab.com?user=lohithalapati&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lohithalapati&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lohithalapati&layout=compact&theme=dark)
+
+</div>
 
 </div>
 ---
